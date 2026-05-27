@@ -1,5 +1,5 @@
 {
-  "name": "tip-demo",
+  "name": "tips",
   "private": true,
   "scripts": {
     "dev": "next dev",
